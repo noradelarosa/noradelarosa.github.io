@@ -55,7 +55,6 @@ p {
 }
 
 .sectionBlock {
-    width: 100%;
     display: flex;
     width: 100%;
 }
@@ -73,6 +72,10 @@ p {
     width: 100%;
     vertical-align: bottom;
     display: inline-block;
+}
+
+.sectionContent {
+    width: 100%;
 }
 
 .sectionContent ul {
