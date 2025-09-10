@@ -107,7 +107,7 @@ function registerHelpers() {
     });
 
     handlebars.registerHelper('add-dot', function (text) {
-        return '.' === text.slice(-1) ? text : text + '.';
+        return '.' === text?.slice(-1) ? text : text + '.';
     });
 }
 
