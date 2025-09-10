@@ -1,11 +1,13 @@
 {
   "basics": {
-    "name": "Nora De la Rosa",
+    "name": "Nora E. De la Rosa Hernández",
     "label": "Senior Customer Service Advisor",
     "image": "https://noradelarosa.github.io/profile.jpeg",
     "email": "nora.rh90@gmail.com",
-    "phone": "(+52) 228-122-0542",
-    "summary": "Customer service professional with 16 years of experience in client relations, finance, and operations across multinational organizations. Skilled at analyzing client needs, ensuring service quality, and driving process improvements through SAP, EDI, and automation initiatives. Recognized as a proactive leader with strong negotiation, conflict resolution, and cross-functional collaboration skills. Committed to delivering measurable results and continuous improvement.",
+    "phone": "(+52) 442-174-3541",
+    "summary": "Customer service and finance professional with 16 years of experience in client relations, credit, and administrative management across multinational organizations. Skilled in analyzing customer needs, ensuring service quality, and driving process improvements.
+Recognized for expertise in documentation management, analytical reasoning, and cross-functional collaboration with finance, logistics, and sales teams. Proactive leader with strong negotiation and conflict resolution skills, committed to delivering measurable results and continuous improvement.
+",
     "location": {
       "city": "Querétaro",
       "region": "Querétaro",
@@ -27,7 +29,7 @@
         "Customer Orientation",
         "Active & Empathetic Listening",
         "Conflict Resolution",
-        "Negotiation"
+        "Effective Negotiation"
       ]
     },
     {
@@ -43,7 +45,7 @@
       "name": "Leadership & Teamwork Skills",
       "level": "Advanced",
       "keywords": [
-        "Leadership & Commitment",
+        "Team Leadership & Coaching",
         "Team Collaboration",
         "Proactivity"
       ]
@@ -64,18 +66,21 @@
     {
       "name": "Klüber Lubricación Mexicana",
       "company": "Klüber Lubrication Mexicana",
-      "location": "Querétaro, Mexico",
+      "location": "Querétaro, Querétaro",
       "position": "Senior Customer Service Advisor",
-      "url": "https://www.klueber.com",
+      "url": "",
       "startDate": "2019-06-01",
-      "summary": "Led SAP migration as SD Key User, implemented automation and EDI initiatives, and managed regional customer service operations with cross-functional teams.",
+      "summary": "SAP SD Key User during system migration; trained in Germany and by external consultants, authored user manuals, and trained the Mexico team.",
       "highlights": [
-        "Key User for SAP SD migration; created user manuals and trained the Mexico team.",
-        "Led order automation, demand control (EDI), and SAP FI–SD integration with finance teams in Portugal.",
-        "Achieved 20% reduction in re-invoicing via Six Sigma White Belt project.",
-        "Coordinated exports and supported distribution accounts in Central America with freight forwarders.",
-        "Managed customer portals (SupplyOn, eBIZ, Taulia, Plexus) for orders, confirmations, and ASNs.",
-        "Oversaw quoting, order entry, invoicing, deliveries, and master data accuracy; monitored stock, lead times, and shipments; produced KPI/Orders-on-Hand reports."
+        "Led projects including EDI implementation and SAP FI–SD integration with finance teams in Portugal.",
+        "Managed re-invoicing, product returns, credit notes, and record keeping for internal control and audits.",
+        "Achieved a 20% reduction in re-invoicing (SD Module) through a Six Sigma White Belt project (2nd place in KLMEX improvement projects).",
+        "Monitored administrative issues impacting overdue collections and initiated corrective actions.",
+        "Supported distribution accounts in Central America, coordinating exports with freight forwarders.",
+        "Managed customer portals (SupplyOn, eBIZ, Taulia, Plexus) for order intake, delivery confirmations, and ASN entries.",
+        "Performed quoting, order entry, invoicing, deliveries, and maintained customer master data accuracy",
+        "Monitored stock levels, lead times, and shipments to ensure on-time deliveries.",
+        "Generated and analyzed KPIs and Orders on Hand reports for management.",
       ],
       "technologies": "SAP SD, SAP FI, EDI, SupplyOn, eBIZ, Taulia, Plexus, Six Sigma"
     },
