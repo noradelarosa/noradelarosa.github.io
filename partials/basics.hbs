@@ -5,16 +5,18 @@
     </div>
     <div class="sectionBlock">
         <div class='sectionContent'>
-            {{#if resume.basics.email}}{{resume.basics.email}}{{/if}}
-            {{#if resume.basics.phone}}&nbsp;&nbsp;{{resume.basics.phone}}{{/if}}
-            {{#if resume.basics.location}}
-                &nbsp;&nbsp;
-                {{#if resume.basics.location.city}}{{resume.basics.location.city}}{{/if}}
-                {{#if resume.basics.location.region}}, {{resume.basics.location.region}}{{/if}}
-            {{/if}}
-            {{#if resume.work.length}}<span class='experience'>{{experience resume.work}}</span>{{/if}}
+            <div class="basicsContact">
+                {{#if resume.basics.email}}{{resume.basics.email}}{{/if}}
+                {{#if resume.basics.phone}}&nbsp;&nbsp; | &nbsp; {{resume.basics.phone}}{{/if}}
+                {{#if resume.basics.location}}
+                    &nbsp;&nbsp; | &nbsp;
+                    {{#if resume.basics.location.city}}{{resume.basics.location.city}}{{/if}}
+                    {{#if resume.basics.location.region}}, {{resume.basics.location.region}}{{/if}}
+                {{/if}}
+                {{#if resume.work.length}}&nbsp; | &nbsp; {{experience resume.work}}{{/if}}
+            </div>
             <span class='sectionName'>Professional Summary</span>
-            <p class='summary' style="white-space: pre-line">{{resume.basics.summary}}</p>
+            <p style="white-space: pre-line">{{resume.basics.summary}}</p>
         </div>
     </div>
 {{/if}}

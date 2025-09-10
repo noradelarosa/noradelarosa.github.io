@@ -1,34 +1,22 @@
-{{#if resume.work.length}}
+{{#if resume.projects.length}}
     <div class="pageBreak"></div>
     <div class="sectionBlock">
         <div class='sectionContent'>
-            <span class='sectionName'>Professional Experience</span>
-            {{#each resume.work}}
+            <span class='sectionName'>Projects</span>
+            {{#each resume.projects}}
                 <div class="jobBlock">
                     <div class='blockHeader'>
                         {{#if name}}
                             <span class='company'>{{name}}</span>
                         {{/if}}
-                        {{#if location}}
-                            <span class='company'>- {{location}}</span>
-                        {{/if}}
                     </div>
-                    <div class='blockHeader'>
-                        {{#if position}}<b>{{position}}</b>{{/if}}
-                        {{> dates }}
-                    </div>
-                    {{#if summary}}<p style="white-space: pre-line">{{add-dot summary}}</p>{{/if}}
+                    {{#if description}}<p class="summary" style="white-space: pre-line">{{add-dot description}}</p>{{/if}}
                     {{#if highlights.length}}
                         <ul>
                             {{#each highlights}}
                                 <li>{{add-dot .}}</li>
                             {{/each}}
                         </ul>
-                    {{/if}}
-                    {{#if technologies}}
-                        <p>
-                            <b>Technologies:&nbsp;</b>{{add-dot technologies}}
-                        </p>
                     {{/if}}
                     {{#unless @last}}
                         <div class='sectionLine'></div>

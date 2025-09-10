@@ -5,130 +5,193 @@
     "image": "",
     "email": "nora.rh90@gmail.com",
     "phone": "(+52) 228-122-0542",
-    "summary": "Customer service professional with over 15 years of experience in client relations, finance, and operations across multinational organizations. Skilled at analyzing client needs, ensuring service quality, and driving process improvements through SAP, EDI, and automation initiatives. Recognized as a proactive leader with strong negotiation, conflict resolution, and cross-functional collaboration skills. Committed to delivering measurable results and continuous improvement.",
+    "summary": "Customer service professional with 16 years of experience in client relations, finance, and operations across multinational organizations. Skilled at analyzing client needs, ensuring service quality, and driving process improvements through SAP, EDI, and automation initiatives. Recognized as a proactive leader with strong negotiation, conflict resolution, and cross-functional collaboration skills. Committed to delivering measurable results and continuous improvement.",
     "location": {
       "city": "Querétaro",
       "region": "Querétaro",
       "countryCode": "Mexico"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "noradelarosaadministracion",
+        "url": "https://linkedin.com/in/noradelarosaadministracion"
+      }
+    ]
   },
   "skills": [
     {
-      "name": "",
-      "level": "",
+      "name": "Customer Service & Interpersonal Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Customer Orientation",
+        "Active & Empathetic Listening",
+        "Conflict Resolution",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Operational & Administrative Skills",
+      "level": "Advanced",
       "keywords": [
         "Documentation Management",
         "Process Tracking & Compliance",
-        "Analytical Reasoning",
-        "Conflict Resolution",
-        "Negotiation",
-        "Customer Orientation",
-        "Goal-Oriented Focus",
-        "Project Management",
-        "Team Collaboration",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Leadership & Teamwork Skills",
+      "level": "Advanced",
+      "keywords": [
         "Leadership & Commitment",
-        "Adaptability to Change",
-        "Proactivity",
-        "Active & Empathetic Listening",
+        "Team Collaboration",
+        "Proactivity"
+      ]
+    },
+    {
+      "name": "Strategic & Problem-Solving Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Analytical Reasoning",
+        "Goal-Oriented Focus",
         "Persistence & Perseverance",
+        "Adaptability to Change",
         "Rapid & Efficient Learning"
-      ]
-    },
-    {
-      "name": "Leadership & Management",
-      "level": "Advanced",
-      "keywords": [
-        "Team Leadership",
-        "Training & Development",
-        "Change Management"
-      ]
-    },
-    {
-      "name": "Business Tools",
-      "level": "Advanced",
-      "keywords": [
-        "SAP SD & FI",
-        "CRM Systems",
-        "Order Entry Automation"
-      ]
-    },
-    {
-      "name": "Languages",
-      "level": "Intermediate",
-      "keywords": [
-        "English (Conversational)",
-        "Spanish (Native)"
       ]
     }
   ],
   "work": [
     {
       "name": "Klüber Lubricación Mexicana",
-      "company": "Freudenberg Group",
+      "company": "Klüber Lubrication Mexicana",
       "location": "Querétaro, Mexico",
-      "position": "Customer Service Advisor",
+      "position": "Senior Customer Service Advisor",
       "url": "https://www.klueber.com",
-      "startDate": "2019-01-01",
-      "summary": "Led critical SAP migration projects, implemented automation solutions, and managed key customer accounts across Central America. Coordinated with logistics, finance, and supply chain teams to deliver high service quality.",
+      "startDate": "2019-06-01",
+      "summary": "Led SAP migration as SD Key User, implemented automation and EDI initiatives, and managed regional customer service operations with cross-functional teams.",
       "highlights": [
-        "Key User for SAP SD module migration, including user manuals and training delivery.",
-        "Achieved 20% reduction in re-invoicing through Six Sigma White Belt project.",
-        "Implemented Order Entry Automation using image analysis software."
+        "Key User for SAP SD migration; created user manuals and trained the Mexico team.",
+        "Led order automation, demand control (EDI), and SAP FI–SD integration with finance teams in Portugal.",
+        "Achieved 20% reduction in re-invoicing via Six Sigma White Belt project.",
+        "Coordinated exports and supported distribution accounts in Central America with freight forwarders.",
+        "Managed customer portals (SupplyOn, eBIZ, Taulia, Plexus) for orders, confirmations, and ASNs.",
+        "Oversaw quoting, order entry, invoicing, deliveries, and master data accuracy; monitored stock, lead times, and shipments; produced KPI/Orders-on-Hand reports."
       ],
-      "technologies": "SAP SD, SAP FI, SupplyOn, eBIZ, Taulia, Plexus, Six Sigma"
+      "technologies": "SAP SD, SAP FI, EDI, SupplyOn, eBIZ, Taulia, Plexus, Six Sigma"
     },
     {
       "name": "Financiera Bepensa",
+      "company": "Financiera Bepensa",
       "location": "Querétaro, Mexico",
-      "position": "Commercial Executive",
+      "position": "Commercial Executive (FinBe)",
       "url": "https://www.bepensa.com",
-      "startDate": "2016-01-01",
-      "endDate": "2019-01-01",
-      "summary": "Managed automotive credit portfolios, developed agency partnerships, and analyzed financial profiles for vehicle financing.",
+      "startDate": "2016-12-01",
+      "endDate": "2019-06-30",
+      "summary": "Managed automotive credit pipeline, partnerships, and financial analyses to drive placements.",
       "highlights": [
-        "Prospected and retained clients for automotive financing solutions.",
-        "Built strategic commercial relationships with dealerships.",
-        "Performed credit analysis for individuals and corporations."
+        "Prospected and retained clients for automotive financing.",
+        "Built commercial relationships with dealerships to increase credit placements.",
+        "Performed financial and credit analyses for individuals and businesses.",
+        "Managed CRM pipelines, projections, and credit simulations."
       ],
       "technologies": "CRM Systems, Financial Simulators"
     },
     {
       "name": "Nissan - Shinyu Automotriz",
+      "company": "Nissan - Shinyu Automotriz",
       "location": "Xalapa, Mexico",
-      "position": "Finance & Insurance Manager",
+      "position": "Finance & Insurance Manager (F&I)",
       "url": "https://www.nissan.com.mx",
-      "startDate": "2013-01-01",
-      "endDate": "2016-01-01",
-      "summary": "Directed financing and insurance operations, supervised a sales team, and improved approval and product penetration rates.",
+      "startDate": "2013-07-01",
+      "endDate": "2016-07-31",
+      "summary": "Directed financing and insurance operations, training, and negotiations to improve approvals and product penetration.",
       "highlights": [
-        "Achieved >90% approval rate for automotive credits.",
-        "Increased financial product penetration above 40% of total sales.",
-        "Trained and managed 20–25 sales advisors."
+        "Achieved 90%+ approval rate for automotive credits.",
+        "Drove >40% penetration in financial products (warranties and insurance).",
+        "Trained and coached 20–25 sales advisors on credit processes.",
+        "Handled administrative procedures for insurance claims."
       ],
       "technologies": "SIA, INTEGRA Systems, Insurance & Credit Management"
     },
     {
       "name": "Electricentro",
+      "company": "Electricentro",
       "location": "Xalapa, Mexico",
-      "position": "Branch Manager / Inventory Project Lead",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
+      "position": "Branch Manager / Inventory Control Project Lead",
+      "startDate": "2012-09-01",
+      "endDate": "2013-07-01",
       "summary": "Managed branch operations and led inventory control projects to optimize processes."
     },
     {
       "name": "Enkel Mobiliario",
+      "company": "Enkel Mobiliario",
       "location": "Xalapa, Mexico",
       "position": "Administrative Assistant",
-      "startDate": "2011-01-01",
-      "endDate": "2012-01-01"
+      "startDate": "2011-09-01",
+      "endDate": "2012-02-29"
     },
     {
       "name": "Cinépolis",
+      "company": "Cinépolis",
       "location": "Xalapa, Mexico",
-      "position": "General Employee",
-      "startDate": "2009-01-01",
-      "endDate": "2010-01-01"
+      "position": "Sales and Guest Services Associate",
+      "startDate": "2009-06-01",
+      "endDate": "2011-09-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Operational Excellence Certification",
+      "date": "2023-01-01",
+      "issuer": "FCS Academy"
+    },
+    {
+      "name": "Anti-Money Laundering & Counter-Terrorist Financing",
+      "date": "",
+      "issuer": "NR Finance Mexico"
+    },
+    {
+      "name": "Finance & Insurance (F&I) Manager",
+      "date": "",
+      "issuer": "NR Finance Mexico"
+    },
+    {
+      "name": "Information Security",
+      "date": "",
+      "issuer": "Grupo Freudenberg"
+    },
+    {
+      "name": "Fundamentals of Export Controls (E-Learning)",
+      "date": "",
+      "issuer": "Grupo Freudenberg"
+    },
+    {
+      "name": "CFDI e-Invoicing v4.0 (Mexico)",
+      "date": "",
+      "issuer": "ICLawyers"
+    },
+    {
+      "name": "Organizational Psychology – INSIGHTS",
+      "date": "",
+      "issuer": "RP Consultores"
+    },
+    {
+      "name": "Service Quality",
+      "date": "",
+      "issuer": "RP Consultores"
+    },
+    {
+      "name": "Sales Closing Workshop",
+      "date": "",
+      "issuer": "Universidad Anáhuac"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Graduated with Honors",
+      "date": "2012-01-01",
+      "awarder": "Universidad Veracruzana",
+      "summary": "Honors distinction upon completion of Bachelor of Business Administration."
     }
   ],
   "education": [

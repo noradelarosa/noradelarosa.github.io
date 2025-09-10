@@ -1,0 +1,21 @@
+{{#if resume.awards.length}}
+    <div class="sectionBlock">
+        <div class='sectionContent'>
+            <span class='sectionName'>Awards</span>
+            {{#each resume.awards}}
+                <div class='blockHeader'>
+                    {{#if title}}
+                        <span class='company'>{{title}}</span>
+                    {{/if}}
+                    {{#if awarder}}
+                        <span class='company'> - {{awarder}}</span>
+                    {{/if}}
+                    {{> single-date }}
+                </div>
+                {{#if summary}}
+                    <p>{{add-dot summary}}</p>
+                {{/if}}
+            {{/each}}
+        </div>
+    </div>
+{{/if}}

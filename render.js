@@ -89,6 +89,10 @@ function pdf(pdfFile, resume) {
 }
 
 function registerHelpers() {
+    handlebars.registerHelper('single-format', function (date) {
+        return `${formatYear(date)}`;
+    });
+
     handlebars.registerHelper('format', function (startDate, endDate) {
         return `${format(startDate)} - ${format(endDate)}`;
     });
@@ -120,6 +124,10 @@ function calculateDuration(startDate, endDate) {
 
 function pad(duration, unit) {
     return `${duration}${unit}`.padStart(unit.length + 2, ' ');
+}
+
+function formatYear(date) {
+    return isValid(date) ? moment(date).format('YYYY') : date;
 }
 
 function format(date) {

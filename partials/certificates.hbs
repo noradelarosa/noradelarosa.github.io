@@ -1,0 +1,18 @@
+{{#if resume.certificates.length}}
+    <div class="sectionBlock">
+        <div class='sectionContent'>
+            <span class='sectionName'>Certifications And Training</span>
+            <ul>
+                {{#each resume.certificates}}
+                    <li>
+                        {{#if name}}<b>{{name}} - </b>{{/if}}
+                        {{#if issuer}}
+                            {{issuer}}
+                            {{> single-date }}
+                        {{/if}}
+                    </li>
+                {{/each}}
+            </ul>
+        </div>
+    </div>
+{{/if}}

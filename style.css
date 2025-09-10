@@ -18,7 +18,7 @@ a {
 }
 
 p {
-    text-align: justify;
+    text-align: left;
     text-justify: inter-word;
 }
 
@@ -46,6 +46,7 @@ p {
     float: left;
     text-align: left;
     font-weight: bolder;
+    padding-bottom: 8px;
 }
 
 .basics .label {
@@ -87,12 +88,16 @@ p {
 .sectionContent .sectionName {
     width: 100%;
     vertical-align: center;
-    background-color: #363c57;
-    color: white;
+    background-color: #f2bb41;
+    color: black;
     font-weight: bold;
     font-size: larger;
     border-radius: 3px;
     padding-left: 5px;
+}
+
+.sectionContent .basicsContact {
+    text-align: center;
 }
 
 .sectionContent .company {
@@ -101,6 +106,7 @@ p {
 }
 
 .sectionContent .experience {
+    padding-top: 16px;
     float: right;
     font-weight: normal;
     color: gray;
