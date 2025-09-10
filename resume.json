@@ -79,7 +79,7 @@
         "Managed customer portals (SupplyOn, eBIZ, Taulia, Plexus) for order intake, delivery confirmations, and ASN entries.",
         "Performed quoting, order entry, invoicing, deliveries, and maintained customer master data accuracy",
         "Monitored stock levels, lead times, and shipments to ensure on-time deliveries.",
-        "Generated and analyzed KPIs and Orders on Hand reports for management.",
+        "Generated and analyzed KPIs and Orders on Hand reports for management."
       ],
       "technologies": "SAP SD, SAP FI, EDI, SupplyOn, eBIZ, Taulia, Plexus, Six Sigma"
     },
