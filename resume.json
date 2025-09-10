@@ -118,25 +118,33 @@
       "company": "Electricentro",
       "location": "Xalapa, Mexico",
       "position": "Branch Manager / Inventory Control Project Lead",
+      "url": "",
       "startDate": "2012-09-01",
       "endDate": "2013-07-01",
-      "summary": "Managed branch operations and led inventory control projects to optimize processes."
+      "summary": "Managed branch operations and led inventory control projects to optimize processes.",
+      "highlights": []
     },
     {
       "name": "Enkel Mobiliario",
       "company": "Enkel Mobiliario",
       "location": "Xalapa, Mexico",
       "position": "Administrative Assistant",
+      "url": "",
       "startDate": "2011-09-01",
-      "endDate": "2012-02-29"
+      "endDate": "2012-02-29",
+      "summary": "",
+      "highlights": []
     },
     {
       "name": "Cinépolis",
       "company": "Cinépolis",
       "location": "Xalapa, Mexico",
       "position": "Sales and Guest Services Associate",
+      "url": "",
       "startDate": "2009-06-01",
-      "endDate": "2011-09-01"
+      "endDate": "2011-09-01",
+      "summary": "",
+      "highlights": []
     }
   ],
   "certificates": [
