@@ -68,8 +68,9 @@
       "position": "Senior Customer Service Advisor",
       "url": "",
       "startDate": "2019-06-01",
-      "summary": "SAP SD Key User during system migration; trained in Germany and by external consultants, authored user manuals, and trained the Mexico team.",
+      "summary": "",
       "highlights": [
+        "SAP SD Key User during system migration; trained in Germany and by external consultants, authored user manuals, and trained the Mexico team.",
         "Led projects including EDI implementation and SAP FI–SD integration with finance teams in Portugal.",
         "Managed re-invoicing, product returns, credit notes, and record keeping for internal control and audits.",
         "Achieved a 20% reduction in re-invoicing (SD Module) through a Six Sigma White Belt project (2nd place in KLMEX improvement projects).",
@@ -83,35 +84,38 @@
       "technologies": "SAP SD, SAP FI, EDI, SupplyOn, eBIZ, Taulia, Plexus, Six Sigma"
     },
     {
-      "name": "Financiera Bepensa",
-      "company": "Financiera Bepensa",
-      "location": "Querétaro, Mexico",
-      "position": "Commercial Executive (FinBe)",
+      "name": "Financiera Bepensa (FinBe)",
+      "company": "Financiera Bepensa (FinBe)",
+      "location": "Querétaro, Querétaro",
+      "position": "Commercial Executive",
       "url": "https://www.bepensa.com",
       "startDate": "2016-12-01",
       "endDate": "2019-06-30",
-      "summary": "Managed automotive credit pipeline, partnerships, and financial analyses to drive placements.",
+      "summary": "",
       "highlights": [
         "Prospected and retained clients for automotive financing.",
-        "Built commercial relationships with dealerships to increase credit placements.",
-        "Performed financial and credit analyses for individuals and businesses.",
-        "Managed CRM pipelines, projections, and credit simulations."
+        "Conducted financial analysis of individuals and businesses to determine credit eligibility.",
+        "Contacted customers with overdue accounts by phone or in person to ensure resolution.",
+        "Built commercial relationships with dealerships to increase financing placements.",
+        "Integrated documentation for credit control and followed up on clients via CRM.",
+        "Managed CRM pipelines, forecasts, and credit simulations."
       ],
       "technologies": "CRM Systems, Financial Simulators"
     },
     {
       "name": "Nissan - Shinyu Automotriz",
       "company": "Nissan - Shinyu Automotriz",
-      "location": "Xalapa, Mexico",
+      "location": "Xalapa, Veracruz",
       "position": "Finance & Insurance Manager (F&I)",
       "url": "https://www.nissan.com.mx",
       "startDate": "2013-07-01",
       "endDate": "2016-07-31",
-      "summary": "Directed financing and insurance operations, training, and negotiations to improve approvals and product penetration.",
+      "summary": "",
       "highlights": [
-        "Achieved 90%+ approval rate for automotive credits.",
-        "Drove >40% penetration in financial products (warranties and insurance).",
-        "Trained and coached 20–25 sales advisors on credit processes.",
+        "Managed credit applications, approvals, and negotiations, achieving a 90%+ approval rate.",
+        "Reviewed and analyzed credit documentation, prepared files, and tracked approvals.",
+        "Supervised and augmented financial product penetration to 40% of total vehicle sales (insurance, extended warranties).",
+        "Trained and coached 20–25 sales advisors on credit application and sales processes.",
         "Handled administrative procedures for insurance claims."
       ],
       "technologies": "SIA, INTEGRA Systems, Insurance & Credit Management"
@@ -124,7 +128,9 @@
       "startDate": "2012-09-01",
       "endDate": "2013-07-01",
       "summary": "Managed branch operations and led inventory control projects to optimize processes.",
-      "highlights": [],
+      "highlights": [
+        "Managed branch operations and implemented an inventory control strategy."
+      ],
       "technologies": []
     },
     {
@@ -135,7 +141,9 @@
       "startDate": "2011-09-01",
       "endDate": "2012-02-29",
       "summary": "",
-      "highlights": [],
+      "highlights": [
+        "Created and maintained administrative manuals and organizational procedures."
+      ],
       "technologies": []
     },
     {
@@ -146,11 +154,18 @@
       "startDate": "2009-06-01",
       "endDate": "2011-09-01",
       "summary": "",
-      "highlights": [],
+      "highlights": [
+        "Supported customer service operations in a high-volume entertainment environment."
+      ],
       "technologies": []
     }
   ],
   "certificates": [
+    {
+      "name": "Accountability, Time Management, Problem Analysis, Decision Making, and Leadership Management",
+      "date": "2025-01-01",
+      "issuer": "Kaizen Asesores"
+    },
     {
       "name": "Operational Excellence Certification",
       "date": "2023-01-01",
@@ -161,7 +176,7 @@
       "issuer": "NR Finance Mexico"
     },
     {
-      "name": "Finance & Insurance (F&I) Manager",
+      "name": "Certification - Finance & Insurance (F&I) Manager",
       "issuer": "NR Finance Mexico"
     },
     {
@@ -169,7 +184,7 @@
       "issuer": "Grupo Freudenberg"
     },
     {
-      "name": "Fundamentals of Export Controls (E-Learning)",
+      "name": "E-Learning - Fundamentals of Export Controls",
       "issuer": "Grupo Freudenberg"
     },
     {
@@ -185,8 +200,28 @@
       "issuer": "RP Consultores"
     },
     {
-      "name": "Sales Closing Workshop",
+      "name": "Workshop - Sales Closing",
       "issuer": "Universidad Anáhuac"
+    },
+     {
+      "name": "Planning & Action - Six Thinking Hats & Six Action Shoes",
+      "issuer": "RP Consultores"
+    },
+     {
+      "name": "Participant, 2nd & 3rd Annual Convention for Finance & Insurance Managers",
+      "issuer": "NR Finance Mexico"
+    },
+     {
+      "name": "Forum Organizer - Quality as a Competitiveness Strategy for Mexican Organizations",
+      "issuer": "Universidad Veracruzana"
+    },
+     {
+      "name": "Participant - Stock-Market Operation Simulation",
+      "issuer": "Mexican Stock Exchange Training Center - Mexico City"
+    },
+     {
+      "name": "Participant - Experimenta | Professional Internship Program",
+      "issuer": "Fundación Educación-Superior Empresa"
     }
   ],
   "awards": [
@@ -220,7 +255,7 @@
     },
     {
       "language": "English",
-      "fluency": "Conversational"
+      "fluency": "Conversational - Intermediate"
     }
   ]
 }
