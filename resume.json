@@ -21,42 +21,42 @@
   },
   "skills": [
     {
-      "name": "Customer Service & Interpersonal Skills",
+      "name": "Customer Service and Interpersonal Skills",
       "level": "Advanced",
       "keywords": [
         "Customer Orientation",
-        "Active & Empathetic Listening",
+        "Active and Empathetic Listening",
         "Conflict Resolution",
         "Effective Negotiation"
       ]
     },
     {
-      "name": "Operational & Administrative Skills",
+      "name": "Operational and Administrative Skills",
       "level": "Advanced",
       "keywords": [
         "Documentation Management",
-        "Process Tracking & Compliance",
+        "Process Tracking and Compliance",
         "Project Management"
       ]
     },
     {
-      "name": "Leadership & Teamwork Skills",
+      "name": "Leadership and Teamwork Skills",
       "level": "Advanced",
       "keywords": [
-        "Team Leadership & Coaching",
+        "Team Leadership and Coaching",
         "Team Collaboration",
         "Proactivity"
       ]
     },
     {
-      "name": "Strategic & Problem-Solving Skills",
+      "name": "Strategic and Problem-Solving Skills",
       "level": "Advanced",
       "keywords": [
         "Analytical Reasoning",
         "Goal-Oriented Focus",
-        "Persistence & Perseverance",
+        "Persistence and Perseverance",
         "Adaptability to Change",
-        "Rapid & Efficient Learning"
+        "Rapid and Efficient Learning"
       ]
     }
   ],
