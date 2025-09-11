@@ -162,13 +162,11 @@
   ],
   "certificates": [
     {
-      "name": "Accountability, Time Management, Problem Analysis, Decision Making, and Leadership Management",
-      "date": "2025-01-01",
+      "name": "Accountability, Time Management, Problem Analysis, Decision Making, and Leadership Management (2025)",
       "issuer": "Kaizen Asesores"
     },
     {
-      "name": "Operational Excellence Certification",
-      "date": "2023-01-01",
+      "name": "Operational Excellence Certification (2023)",
       "issuer": "FCS Academy"
     },
     {
@@ -235,7 +233,7 @@
   "education": [
     {
       "institution": "Universidad Veracruzana",
-      "area": "Business Administration",
+      "area": "Business Administration (Graduated with Honors)",
       "studyType": "Bachelor’s Degree",
       "startDate": "2008-01-01",
       "endDate": "2012-01-01"
