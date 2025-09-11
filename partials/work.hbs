@@ -5,15 +5,15 @@
             {{#each resume.work}}
                 <div class="jobBlock">
                     <div class='blockHeader'>
-                        {{#if name}}
-                            <span class='company'>{{name}}</span>
+                        {{#if position}}
+                            <span class='company'>{{position}}</span>
                         {{/if}}
-                        {{#if location}}
-                            <span class='company'>- {{location}}</span>
+                        {{#if name}}
+                            <span class='company'>- {{name}}</span>
                         {{/if}}
                     </div>
                     <div class='blockHeader'>
-                        {{#if position}}<b>{{position}}</b>{{/if}}
+                        {{#if location}}<b>{{location}}</b>{{/if}}
                         {{> dates }}
                     </div>
                     {{#if summary}}<p style="white-space: pre-line">{{add-dot summary}}</p>{{/if}}
