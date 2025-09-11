@@ -62,10 +62,10 @@
   ],
   "work": [
     {
-      "name": "Klüber Lubricación Mexicana",
-      "company": "Klüber Lubrication Mexicana",
-      "location": "Querétaro, Querétaro",
-      "position": "Senior Customer Service Advisor",
+      "name": "Senior Customer Service Advisor",
+      "company": "Senior Customer Service Advisor",
+      "location": "Klüber Lubrication Mexicana",
+      "position": "Querétaro, Querétaro",
       "url": "",
       "startDate": "2019-06-01",
       "summary": "",
@@ -123,7 +123,7 @@
     {
       "name": "Electricentro",
       "company": "Electricentro",
-      "location": "Xalapa, Mexico",
+      "location": "Xalapa, Veracruz",
       "position": "Branch Manager / Inventory Control Project Lead",
       "startDate": "2012-09-01",
       "endDate": "2013-07-01",
@@ -134,9 +134,9 @@
       "technologies": []
     },
     {
-      "name": "Enkel Mobiliario",
-      "company": "Enkel Mobiliario",
-      "location": "Xalapa, Mexico",
+      "name": "Enkël Mobiliario",
+      "company": "Enkël Mobiliario",
+      "location": "Xalapa, Veracruz",
       "position": "Administrative Assistant",
       "startDate": "2011-09-01",
       "endDate": "2012-02-29",
@@ -149,7 +149,7 @@
     {
       "name": "Cinépolis",
       "company": "Cinépolis",
-      "location": "Xalapa, Mexico",
+      "location": "Xalapa, Veracruz",
       "position": "Sales and Guest Services Associate",
       "startDate": "2009-06-01",
       "endDate": "2011-09-01",
