@@ -126,11 +126,10 @@ p {
 }
 
 .sectionLine {
-    border-style: dashed;
     border-width: 1px;
     border-color: #CFCFCF;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .sectionBlock {
