@@ -2,7 +2,7 @@ body {
     background: #EEEEEE;
     font: 12px "Helvetica Neue", sans-serif;
     line-height: 1.4;
-    margin: 40px 0;
+    margin: 8px 0;
 }
 
 ul {
@@ -29,8 +29,8 @@ p {
 #resume {
     margin: 0 auto;
     min-width: 600px;
-    max-width: 600px;
-    padding: 80px 70px;
+    max-width: 700px;
+    padding: 40px 30px;
     background: #fff;
     border: 1px solid #ccc;
     box-shadow: 2px 2px 4px #aaa;
@@ -65,8 +65,8 @@ p {
     vertical-align: top;
     display: inline-block;
     font-weight: bold;
-    margin-top: 10px;
-    margin-bottom: 6px;
+    margin-top: 8px;
+    margin-bottom: 4px;
 }
 
 .blockHeader {
@@ -80,8 +80,8 @@ p {
 }
 
 .sectionContent ul {
-    padding-left: 20px;
-    margin-top: 6px;
+    padding-left: 14px;
+    margin-top: 4px;
     list-style-type: disc;
 }
 
@@ -128,8 +128,8 @@ p {
     border-style: dashed;
     border-width: 1px;
     border-color: #CFCFCF;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .sectionBlock {
@@ -161,6 +161,6 @@ p {
 
 @page {
     size: letter;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 14px;
+    margin-bottom: 14px;
 }
